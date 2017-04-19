@@ -52,7 +52,7 @@ _Set The Maximun Messages In A FloodTime To Be Considered As flood_
 */setpvfloodtime*
 _Set The Time That Bot Uses To Check flood_
 
-*/beyond*
+*/delete*
 _Show About Bot_
 
 [delete Team Channel](Telegram.Me/Delete_TM)
