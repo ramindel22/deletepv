@@ -1,5 +1,5 @@
 local help_text = [[
-*Beyond Messeger Bot Commands :*
+*delete Messeger Bot Commands :*
 
 */id*
 _Show Your And Chat ID_
@@ -55,21 +55,21 @@ _Set The Time That Bot Uses To Check flood_
 */beyond*
 _Show About Bot_
 
-[Beyond Team Channel](Telegram.Me/BeyondTeam)
+[delete Team Channel](Telegram.Me/Delete_TM)
 _Good Luck_ *:D*
 
 ]]
 
 local mem_help = [[
-*Welcome To Beyond Messenger Bot :*
+*Welcome To delete Messenger Bot :*
 
 */id*
 _Show Your And Chat ID_
 
-*/beyond*
+*/delete*
 _Show About Bot_
 
-[Beyond Team Channel](Telegram.Me/BeyondTeam)
+[delete Team Channel](Telegram.Me/Delete_TM)
 _Good Luck_ *:D*
 
 ]]
@@ -99,7 +99,7 @@ local function already_sudo(user_id)
   return false
 end
 
---By @SoLiD
+--By @Xx_mrIRANI_xX
 local function sudolist(msg)
 local sudo_users = _config.sudo_users
 local text = "Sudo Users :\n"
@@ -402,7 +402,7 @@ patterns ={
 "^[/](help)$",
 "^[/](blocklist)$",
 "^[/](sudolist)$",
-"^[/](beyond)$",
+"^[/](delete)$",
 "^[/](clean blocklist)$",
 "^[/](users)$",
 "^[/](setstart) (.*)$",
