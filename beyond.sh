@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/BDMessenger
+cd $HOME/deletepv
 
 install() {
 		sudo apt-get update
