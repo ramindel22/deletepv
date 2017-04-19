@@ -1,9 +1,6 @@
-# [BDMessenger](https://t.me/TeleBeyondApiBot)
+# [deleteMessenger](https://t.me/DeleteTMbot)
 
-[![Bot API](http://img.shields.io/badge/Bot%20API-v2.3.1-00aced.svg)](https://core.telegram.org/bots/api)
-[![https://t.me/BeyondTeam](https://img.shields.io/badge/💬%20Telegram-BeyondTeam-00aced.svg)](https://t.me/BeyondTeam)
-
-## Beyond Messenger V1.0 
+## delete Messenger V1.0 
 Messenger Bot Based On Plugin
 
 * * *
@@ -18,18 +15,18 @@ Messenger Bot Based On Plugin
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/BDMessenger.git
-cd BDMessenger
-chmod +x beyond.sh
-./beyond.sh install
-./beyond.sh 
+git clone https://github.com/ramindel0761/deletepv.git
+cd deletepv
+chmod +x delete.sh
+./delete.sh install
+./delete.sh 
 
 # End ;)
 ```
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/BeyondTeam/BDMessenger.git && cd BDMessenger && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
+cd $HOME && git clone https://github.com/ramindel0761/deletepv.git && cd deletepv && chmod +x delete.sh && ./delete.sh install && ./delete.sh
 ```
 
 * * *
@@ -39,24 +36,9 @@ cd $HOME && git clone https://github.com/BeyondTeam/BDMessenger.git && cd BDMess
 
 # Support and Development
 
-More information [Beyond Global Chat](https://t.me/joinchat/AAAAAEGaKOxC8K6cJ3bCcw)
+More information [delete Global Chat](https://t.me/joinchat/AAAAAEAYAluAzlzQS6PiYw)
 
-# Special thanks to
-
-[@MrHalix](https://github.com/MrHalix)
-
-* * *
-
-# Developers!
-
-[SoLiD](https://github.com/solid021) ([Telegram](https://t.me/SoLiD))
-
-[MAKAN](https://github.com/makanj) ([Telegram](https://t.me/MAKAN))
-
-[ToOfan](https://github.com/To0fan) ([Telegram](https://t.me/ToOfan))
-
-[CliFather](https://t.me/CliFather)
 
 ### Our Telegram channel:
 
-[@BeyondTeam](https://t.me/BeyondTeam)
+[@deleteTeam](https://t.me/Delete_TM)
